@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wikipedia</name>
+   <tag></tag>
+   <elementGuidId>56f9d104-461e-4cd7-9e8f-fae542796a33</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q ruhjFe NJLBac fl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://en.wikipedia.org/wiki/Conor_McGregor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>0ahUKEwiQkq301ofcAhWMso8KHfLgAPUQmhMImgIwKA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ping</name>
+      <type>Main</type>
+      <value>/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://en.wikipedia.org/wiki/Conor_McGregor&amp;ved=0ahUKEwiQkq301ofcAhWMso8KHfLgAPUQmhMImgIwKA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wikipedia</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rhs_block&quot;)/div[@class=&quot;g rhsvw kno-kp mnr-c g-blk&quot;]/div[@class=&quot;kp-blk knowledge-panel Wnoohf OJXvsb&quot;]/div[@class=&quot;xpdopen&quot;]/div[@class=&quot;ifM9O&quot;]/div[2]/div[@class=&quot;SALvLe farUxc mJ2Mod&quot;]/div[@class=&quot;i4J0ge&quot;]/div[@class=&quot;mod&quot;]/div[@class=&quot;hb8SAc kno-fb-ctx&quot;]/div[@class=&quot;r-ixtXtmkKmaLg&quot;]/div[@class=&quot;kno-rdesc r-iq_rWMLX_yEM&quot;]/span[2]/a[@class=&quot;q ruhjFe NJLBac fl&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
